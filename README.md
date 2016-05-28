@@ -1,1 +1,2 @@
 # nodejs
+autobuild test
